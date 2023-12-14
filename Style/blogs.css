@@ -1,0 +1,21 @@
+.header {
+    height: 700px;
+    background-image: url(../strong.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h2 {
+    color: red;
+    text-align: center;
+    text-decoration: underline;
+}
+
+p {
+    color: blueviolet;
+}
+
+.page-title {
+    font-weight: 900;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
